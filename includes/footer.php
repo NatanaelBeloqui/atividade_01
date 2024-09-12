@@ -1,5 +1,5 @@
 <footer>
-    <p class="text-center">Todos os direitos reservados</p>
+    <p class="text-center"></p>
 </footer>
 </div> <!-- Fecha container -->
 </body>
